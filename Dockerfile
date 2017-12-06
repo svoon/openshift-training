@@ -1,4 +1,4 @@
-FROM openshift/base-centos7
+FROM 172.30.1.1:5000/s2i-image-workshop/base-centos7
 
 MAINTAINER Alex Filipovici <alex.filipovici@dhl.com>
 
